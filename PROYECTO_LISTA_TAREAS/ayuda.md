@@ -1,0 +1,2 @@
+Scaffold DBContext from existing database in .NET Core 
+Scaffold-DbContext "Server=localhost;Database=NETCREACT ;Trusted_Connection=SSPI;MultipleActiveResultSets=true;Trust Server Certificate=true" Microsoft.EntityFrameworkCore.SqlServer -OutPutDir Models
